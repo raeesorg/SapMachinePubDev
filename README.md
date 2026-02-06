@@ -5,7 +5,7 @@
 # [](#SapMachine) SapMachine
 This project contains a downstream version of the [OpenJDK](http://openjdk.java.net/) project. It is used to build and maintain a SAP supported version of OpenJDK for SAP customers and partners who wish to use OpenJDK to run their applications.
 
-We want to stress that this is clearly a "*friendly fork*". SAP is committed to ensuring the continued success of the Java platform. SAP is: 
+We want to stress that this is clearly a "*friendly fork*". SAP is committed to ensuring the continued success of the Java platform. SAP is:
 
 * A member of the [JCP Executive committee](https://jcp.org/en/participation/committee) since 2001 and recently served in the [JSR 379 (Java SE 9)](https://www.jcp.org/en/jsr/detail?id=379), [JSR 383 (Java SE 18.3)](https://www.jcp.org/en/jsr/detail?id=383), [JSR 384 (Java SE 11)](https://www.jcp.org/en/jsr/detail?id=384), [JSR 386 (Java SE 12)](https://www.jcp.org/en/jsr/detail?id=386), [JSR 388 (Java SE 13)](https://www.jcp.org/en/jsr/detail?id=388), [JSR 389 (Java SE 14)](https://www.jcp.org/en/jsr/detail?id=389), [JSR 390 (Java SE 15)](https://www.jcp.org/en/jsr/detail?id=390), [JSR 391 (Java SE 16)](https://www.jcp.org/en/jsr/detail?id=391), [JSR 392 (Java SE 17)](https://www.jcp.org/en/jsr/detail?id=392), [JSR 393 (Java SE 18)](https://www.jcp.org/en/jsr/detail?id=393), [JSR 394 (Java SE 19)](https://www.jcp.org/en/jsr/detail?id=394), [JSR 395 (Java SE 20)](https://www.jcp.org/en/jsr/detail?id=395), [JSR 396 (Java SE 21)](https://www.jcp.org/en/jsr/detail?id=396) and [JSR 397 (Java SE 22)](https://www.jcp.org/en/jsr/detail?id=397) Expert Groups.
 
@@ -48,3 +48,4 @@ We currently do not accept external contributions for this project. If you want 
 
 ## License
 This project is run under the same licensing terms as the upstream OpenJDK project. Please see the [LICENSE](LICENSE) file in the top-level directory for more information.
+
